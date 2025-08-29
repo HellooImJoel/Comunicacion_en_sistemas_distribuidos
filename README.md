@@ -7,7 +7,7 @@ Una colección completa de ejercicios prácticos para dominar la programación d
 - [Ejercicio 1: Comunicación UDP](#ejercicio-1-comunicación-udp)
 - [Ejercicio 2: Protocolos Petición-Respuesta](#ejercicio-2-protocolos-petición-respuesta)
 - [Ejercicio 3: Comunicación TCP Confiable](#ejercicio-3-comunicación-tcp-confiable)
-- [Ejecución de los ejecricicos](#Ejecución-de-los-ejecricicos)
+- [Ejecución de los ejercicicos](#Ejecución-de-los-ejercicicos)
 - [Arquitectura Técnica](#arquitectura-técnica)
 
 ## 🚀 Ejercicio 1: Comunicación UDP
@@ -133,7 +133,7 @@ tcp_comunicacion_confiable.py
 ---
 
 
-## 🛠️ Ejecución de los ejecricicos
+## 🛠️ Ejecución de los ejercicicos
 
 
 ### Ejercicio 1 - UDP
