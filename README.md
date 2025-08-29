@@ -109,18 +109,6 @@ Implementación avanzada de una interfaz de comunicación robusta usando TCP con
 - **Cola de mensajes** para reenvío automático
 - **Timeouts configurables** por tipo de operación
 
-#### 📊 Monitoreo y Estadísticas
-```python
-stats = {
-    'mensajes_enviados': 0,
-    'mensajes_recibidos': 0, 
-    'acks_enviados': 0,
-    'acks_recibidos': 0,
-    'reconexiones': 0,
-    'errores': 0
-}
-```
-
 ### Componentes Principales
 ```
 tcp_comunicacion_confiable.py
